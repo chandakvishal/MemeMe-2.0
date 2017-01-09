@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MemeGenerator
 //
-//  Created by Chandak, Vishal on 08/01/17.
-//  Copyright © 2017 Chandak, Vishal. All rights reserved.
+//  Created by Chandak, Vishal on 26/12/16.
+//  Copyright © 2016 Chandak, Vishal. All rights reserved.
 //
 
 import UIKit
