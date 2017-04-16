@@ -12,4 +12,4 @@ struct Constants {
     static let defaultTextTop: NSString = "TOP"
     
     static let defaultTextBottom: NSString = "BOTTOM"
-};
+}
